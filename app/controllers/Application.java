@@ -1,7 +1,5 @@
 package controllers;
 
-import java.util.Iterator;
-
 import models.Post;
 import models.User;
 import play.mvc.Controller;
